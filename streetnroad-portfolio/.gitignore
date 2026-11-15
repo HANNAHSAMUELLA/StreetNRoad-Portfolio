@@ -1,0 +1,25 @@
+# Local and secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.ppk
+id_rsa
+id_ed25519
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+*.bak
+*.backup
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+venv/
+.venv/
+__pycache__/
